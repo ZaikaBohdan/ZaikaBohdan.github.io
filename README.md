@@ -2,7 +2,7 @@
 
 Welcome to my Data Science Portfolio. Here you can find brief descriptions of my projects with links to corresponding GitHub repositories.
 
-## [Project 1: Building a car price prediction model for the CarDekho website](https://github.com/ZaikaBohdan/ds_car_price_proj/blob/main/README.md)
+## [Project 1: Building a car price prediction model for the CarDekho website](https://github.com/ZaikaBohdan/ds_car_price_proj)
 
 <p align="center">
   <img src="https://github.com/ZaikaBohdan/ds_car_price_proj/blob/main/imgs/car_dekho.jpg?raw=true" />
